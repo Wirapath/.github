@@ -1,5 +1,7 @@
 # Wirakarsa
 
+![Wirakarsa Logo](./.github/wirakarsa-logo.png)
+
 ### Ekosistem Akselerasi Karier & Evaluasi Kesiapan Kerja (Job Readiness Index) Lulusan IT Berbasis AI Mentor (Wirapath)
 
 **Grup WMA-02 • MSIB Batch 6**  
@@ -83,12 +85,14 @@ Laboratorium pengkodean mini tempat pengguna dapat mengintegrasikan repositori G
 
 ---
 
-## 👥 Tim Kami (Grup WMA-02)
+## 👥 Tim Kami - Grup WMA-02
+
+Kami adalah tim kolaboratif yang berfokus pada pengembangan solusi digital untuk meningkatkan kesiapan kerja lulusan IT.
 
 | Nama Anggota | Learning Path | Peran Utama | GitHub |
 |---|---|---|---|
-| **Fikri** | Mobile Development | Team Lead, Flutter Core Engineer & Database Arch | [@fikriww](https://github.com/fikriww) |
-| **Rafles Yuda** | Mobile Development | State Management Specialist & Chat UI | [@yudaahscwlth](https://github.com/yudaahscwlth) |
+| **Fikri** | Mobile Development | Team Lead, Flutter Core Engineer & Database Architect | [@fikriww](https://github.com/fikriww) |
+| **Rafles Yuda** | Mobile Development | State Management Specialist & Chat UI Developer | [@yudaahscwlth](https://github.com/yudaahscwlth) |
 | **Sahrul Irfanul H. Damanik** | Cloud Computing / Backend | Firebase Services & Cloud Architecture | [@sahrulirfanulhusnidamanik-cloud](https://github.com/sahrulirfanulhusnidamanik-cloud) |
 | **Rafi (gxvraz)** | UI/UX Design / Front-End | UI/UX Designer & Flutter UI Specialist | [@gxvraz](https://github.com/gxvraz) |
 | **Ardi (solhwaz)** | Quality Assurance / Dev | QA Engineer & Feature Developer | [@solhwaz](https://github.com/solhwaz) |
