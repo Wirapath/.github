@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="img/Logo%20Wirapath.png" alt="Logo Wirapath" width="150" />
+</p>
+
 # Wirakarsa
 
 ### Ekosistem Akselerasi Karier & Evaluasi Kesiapan Kerja (Job Readiness Index) Lulusan IT Berbasis AI Mentor (Wirapath)
@@ -93,6 +97,12 @@ Laboratorium pengkodean mini tempat pengguna dapat mengintegrasikan repositori G
 | **Rafi (gxvraz)** | UI/UX Design / Front-End | UI/UX Designer & Flutter UI Specialist | [@gxvraz](https://github.com/gxvraz) |
 | **Ardi (solhwaz)** | Quality Assurance / Dev | QA Engineer & Feature Developer | [@solhwaz](https://github.com/solhwaz) |
 | **Jihan** | UI/UX Design | Product Manager, Assets & Technical Writer | [@jihan-designer](https://github.com) |
+| **Jeremy Vidinov** | Artificial Intelligence | Design Researcher | [@vidinovj](https://github.com/vidinovj) |
+| **Mirza** | Artificial Intelligence | Data Engineer | [@mirza](https://github.com) |
+| **Revo** | Artificial Intelligence | ML Engineer | [@Poskuy](https://github.com/Poskuy) |
+| **Martin** | Artificial Intelligence | ML Engineer | [@martin](https://github.com) |
+| **Dian Purbo Wicaksono** | Artificial Intelligence | ML Ops | [@dianpurbow](https://github.com/dianpurbow) |
+| **Ervian Rifki Al Asyari** | Web Development / Front-End | Front-End Developer | [@Ervianzz](https://github.com/Ervianzz) |
 
 ---
 
